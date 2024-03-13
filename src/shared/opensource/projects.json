@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "masterPortfolio",
+      "createdAt":"2020-03-06T16:26:54Z",
+      "url": "https://github.com/Adromane/masterPortfolio",
+      "description": "🔥 Ce portfolio a été développé par moi en utilisant mes connaissances avancées en HTML5, CSS3, Javascript et Nodes. Pour ce portfolio, j'ai d'abord développé le design dans Figma en appliquant mes compétences en tant que UX/UI Design. J'ai également utilisé le préprocesseur CSS pour construire ce site, J'ai également développé des animations pour le Menu Mobile en utilisant Javascript et CSS, en appliquant également les concepts de réactivité. En Javascript.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+         
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "API",
+      "createdAt": "2022-01-13T20:41:33Z",
+      "url": "https://github.com/Adromane/API-github",
+      "description": "📦 Ce projet en ReactJS était un projet pour lequel j'ai utilisé tous les fondamentaux avancés que j'ai appris de cette Lib, en utilisant des États, des Props, des Composants, etc., en plus de mes connaissances en JavaScript, HTML et CSS. Dans la partie Front End, j'ai développé le style à l'aide des composants stylisés. En ce qui concerne la demande d'API GitHub, j'ai utilisé Axios pour obtenir des données de cette API de manière asynchrone et enregistrer toutes ces données, telles que les informations utilisateur et les référentiels, dans une variable d'état au sein d'un composant fonctionnel..",
+
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "todo-list",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://app-liste.netlify.app/", 
+      "description": "🌀Mon premier projet en React JS. Ce projet que j'ai développé pour appliquer mes connaissances en React JS ainsi que mes connaissances en HTML CSS et Javascript. Le projet consiste en une simple liste de tâches où l'utilisateur peut ajouter ou supprimer des tâches dans une liste. Dans ce projet, je n'ai pas travaillé avec le stockage local, donc les informations sont réinitialisées lorsque l'utilisateur recharge la page, car le focus ne fonctionnait pas avec la mémoire locale, donc le projet consistait simplement à appliquer les connaissances, les principes fondamentaux et les concepts de React, tels que comme : États, Composants, Props, JSX, etc...",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "APPLICATION MÉTÉO",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://appmeteonetlify.netlify.app/", 
+      "description": "🌀 Il s'agit d'une application construite en React qui interroge la météo et la météo de chaque ville. L'application consomme une API gratuite (Open Weather) dans laquelle l'utilisateur recherche une ville et l'application renvoie des données et des informations et les affiche à l'écran. Pour cette application, une requête API a été effectuée à l'aide de 'FETCH'. Des concepts tels que States, Components, Styled Components, JSX, API Request, ont été utilisés dans ce projet.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Controle financier",
+      "createdAt": "2023-02-06T06:36:41Z",
+      "url": "https://github.com/Adromane/contr-le-financier",
+      "description": "🚀 Dans ce projet que j'ai développé avec passion, je vous présente notre application web de contrôle financier, conçue pour vous aider à transformer vos finances de manière positive.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Project-laravel-Crud",
+      "createdAt": "2023-06-01T08:31:51Z",
+      "url": "https://github.com/Adromane/Project-laravel-Crud",
+      "description": "🚀Dans ce didacticiel, nous enseignerons étape par étape l'application Laravel 10 CRUD. Application Laravel 10 CRUD, nous aborderons les opérations de création, de lecture, de mise à jour, de suppression et d'affichage de Crud dans Laravel. Laravel est le framework PHP le plus connu au monde. Il possède diverses fonctionnalités. Laravel est une architecture MVC. crud en utilisant l'exemple de Laravel, je vais montrer de manière simple comment créer une application Laravel crud éloquente. Voici le meilleur endroit pour apprendre Laravel 10.laravel php utilisé pour créer l'application Web très facile à créer et à héberger l'application.", 
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
+}

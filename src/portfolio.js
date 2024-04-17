@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Patrick Vieira",
   nickname: "Patrickvieira",
   subTitle:
-    "Je suis un(e) étudiant(e) passionné(e) à la recherche d'opportunités de stages pour acquérir une expérience pratique dans mon domaine d'intérêt. Bien que je n'aie pas encore d'expérience professionnelle formelle.",
+    "",
   resumeLink:
     "https://drive.google.com/file/d/1ddfKuGSptFMVQcW80WkLRwvOHi145gzf/view?usp=drive_link",
   portfolio_repository: "https://github.com/Adromane",

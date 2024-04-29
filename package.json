@@ -68,4 +68,4 @@
     "*.json": "prettier-package-json --write",
     "*.{js,css,md}": "prettier --write"
   }
-}  
+}   

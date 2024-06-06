@@ -90,7 +90,7 @@ const skills = {
           style: {
             backgroundColor: "transparent",
           },
-        },
+        }, 
         {
           skillName: "Keras",
           fontAwesomeClassname: "simple-icons:keras",

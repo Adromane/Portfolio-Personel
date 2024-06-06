@@ -97,7 +97,7 @@ const skills = {
           style: { 
             backgroundColor: "white",
             color: "#D00000",
-          },
+          }, 
         },
         {
           skillName: "PyTorch",

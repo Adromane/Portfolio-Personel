@@ -14,7 +14,7 @@ const seo = {
     title: "Patrick Vieira Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
-  },
+  }, 
 };
 
 //Home Page

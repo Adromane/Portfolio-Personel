@@ -15,7 +15,7 @@ const seo = {
     type: "website",
     url: "http://ashutoshhathidara.com/",
   }, 
-};
+}; 
 
 //Home Page
 const greeting = {

@@ -399,7 +399,7 @@ const experience = {
           duration: "May 2021-actuelment",
           location: "Dakar",
           description:
-            "Je suis ravi de vous présenter mon projet passionnant qui est hébergé sur GitHub. Ce projet [nom du projet] représente mes efforts pour [objectif principal du projet], et vous pouvez explorer son code source complet et ses fonctionnalités sur mon dépôt GitHub.",
+            "Sur mon GitHub, je partage mes réalisations en développement, allant d'applications web et scripts à des projets open-source. Vous y trouverez du code en [tes technologies principales : Node.js, Laravel, etc.], ainsi que des solutions innovantes et des collaborations."
           color: "#9b1578",
         },
         {

@@ -399,7 +399,7 @@ const experience = {
           duration: "May 2021-actuelment",
           location: "Dakar",
           description:
-            "Sur mon GitHub, je partage mes réalisations en développement, allant d'applications web et scripts à des projets open-source. Vous y trouverez du code en [tes technologies principales : Node.js, Laravel, etc.], ainsi que des solutions innovantes et des collaborations."
+            
           color: "#9b1578",
         },
         {

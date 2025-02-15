@@ -391,20 +391,15 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "Projets",
-          company: "Github",
-          location: "Dakar",
-          company_url: "https://github.com/Adromane",
-          logo_path: "github_logo.png",
-          duration: "May 2021-actuelment",
-          location: "Dakar",
+          title: "Front End et Backend Web Developer",
+          company: "Instagram",
+          company_url: "https://www.instagram.com",
+          logo_path: "Instagram_logo.png", 
+          duration: "June 2023 - actuelment",
+          location: "Dakar",  
           description:
-<<<<<<< HEAD
-            "Sur mon GitHub, je partage mes réalisations en développement, allant d'applications web et scripts à des projets open-source. Vous y trouverez du code en [tes technologies principales : Node.js, Laravel, etc.], ainsi que des solutions innovantes et des collaborations".
-=======
-            
->>>>>>> a20c34912bca9a50eeb04d63afa70a6234b0ec9c
-          color: "#9b1578",
+            "Je suis constamment en train d'apprendre et de me former sur les dernières technologies front-end et back-end, pour rester à jour avec les meilleures pratiques de développement web.",
+          color: "#0879bf",
         },
         {
           title: "Linkedin",

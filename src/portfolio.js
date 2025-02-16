@@ -398,7 +398,7 @@ const experience = {
           duration: "June 2023 - actuelment",
           location: "Dakar",  
           description:
-            "Je suis constamment en train d'apprendre et de me former sur les dernières technologies front-end et back-end, pour rester à jour avec les meilleures pratiques de développement web.",
+            "Sur mon GitHub, je partage mes réalisations en développement, allant d'applications web et scripts à des projets open-source. Vous y trouverez du code en [tes technologies principales : Node.js, Laravel, etc.], ainsi que des solutions innovantes et des collaborations.",
           color: "#0879bf",
         },
         {

@@ -393,7 +393,7 @@ const experience = {
         {
           title: "Front End et Backend Web Developer",
           company: "Instagram",
-          company_url: "https://www.instagram.com",
+          company_url: "https://github.com/Adromane",
           logo_path: "Instagram_logo.png", 
           duration: "June 2023 - actuelment",
           location: "Dakar",  

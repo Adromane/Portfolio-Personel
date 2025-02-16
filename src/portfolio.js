@@ -380,7 +380,7 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: ":📸 Suivez-moi sur Instagram",
+          title: "📸 Suivez-moi sur Instagram",
           company: "Instagram",
           company_url: "https://www.instagram.com",
           logo_path: "Instagram_logo.png", 

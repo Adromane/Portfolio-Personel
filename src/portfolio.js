@@ -387,7 +387,7 @@ const experience = {
           duration: "June 2023 - actuelment",
           location: "Dakar",  
           description:
-            "Je suis constamment en train d'apprendre et de me former sur les dernières technologies front-end et back-end, pour rester à jour avec les meilleures pratiques de développement web.",
+            "Sur mon Instagram, je partage mon parcours en développement web, réseaux et technologies, ainsi que des projets, astuces et moments inspirants. Rejoignez-moi pour découvrir mon univers et échanger autour de la tech !",
           color: "#0879bf",
         },
         {

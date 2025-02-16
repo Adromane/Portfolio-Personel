@@ -391,7 +391,7 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "Front End et Backend Web Developer",
+          title: "Explorez mon GitHub",
           company: "Github",
           company_url: "https://github.com/Adromane",
           logo_path: "Instagram_logo.png", 

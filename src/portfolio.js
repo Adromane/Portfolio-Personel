@@ -408,7 +408,7 @@ const experience = {
           duration: "Nov 2019-actuelment",
           location: "Dakar",
           description:
-            "💻Passionné par le développement web, les réseaux et les technologies, je partage ici mon parcours, mes projets, des astuces et des moments inspirants. 🚀 Rejoignez-moi pour échanger autour de la tech et grandir ensemble ! #DéveloppementWeb #Réseaux #Technologie",
+            "💻Passionné par le développement web, les réseaux et les technologies, je partage ici mon parcours, mes projets, des astuces et des moments inspirants. 🚀 Rejoignez-moi pour échanger autour de la tech et grandir ensemble ! ",
           color: "#fc1f20",
         },
       ],

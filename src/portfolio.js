@@ -401,14 +401,14 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "Linkedin",
+          title: "💻Linkedin",
           company: "linkedin",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "Linkedin_logo.png",
           duration: "Nov 2019-actuelment",
           location: "Dakar",
           description:
-            "💻Passionné par le développement web, les réseaux et les technologies, je partage ici mon parcours, mes projets, des astuces et des moments inspirants. 🚀 Rejoignez-moi pour échanger autour de la tech et grandir ensemble ! ",
+            "Passionné par le développement web, les réseaux et les technologies, je partage ici mon parcours, mes projets, des astuces et des moments inspirants. 🚀 Rejoignez-moi pour échanger autour de la tech et grandir ensemble ! ",
           color: "#fc1f20",
         },
       ],

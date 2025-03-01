@@ -397,7 +397,7 @@ const experience = {
           duration: "June 2023 - actuelment",
           location: "Dakar",  
           description:
-            "Sur mon GitHub, je publie mes réalisations en développement, allant d’applications web à des projets open-source. Vous y trouverez du code en [tes technologies principales] ainsi que des solutions innovantes et collaboratives.",
+            "Je partage sur mon GitHub divers projets de développement, incluant des applications web et des solutions open-source. Explorez mon code en [tes technologies principales] et mes collaborations!",
           color: "#0879bf",
         },
         {

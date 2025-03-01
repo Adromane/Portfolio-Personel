@@ -408,7 +408,7 @@ const experience = {
           duration: "Nov 2019-actuelment",
           location: "Dakar",
           description:
-            "Mon parcours professionnel se caractérise par [vos expériences marquantes], et je suis convaincu(e) que chaque défi est une opportunité d'apprendre et de grandir.",
+            "💻 Passionné par le développement web, les réseaux et les technologies, je partage ici mon parcours, mes projets, des astuces et des moments inspirants. 🚀 Rejoignez-moi pour échanger autour de la tech et grandir ensemble ! #DéveloppementWeb #Réseaux #Technologie",
           color: "#fc1f20",
         },
       ],

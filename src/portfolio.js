@@ -405,7 +405,7 @@ const experience = {
           company: "linkedin",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "Linkedin_logo.png",
-          duration: "Nov 2019-actuelment",
+          duration: "Nov 2024-actuelment",
           location: "Dakar",
           description:
             "Passionné par le développement web, les réseaux et les technologies, je partage ici mon parcours, mes projets, des astuces et des moments inspirants. 🚀 Rejoignez-moi pour échanger autour de la tech et grandir ensemble ! ",

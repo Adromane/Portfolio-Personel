@@ -327,7 +327,7 @@ const degrees = {
       subtitle: "MASTER SPÉCIALISÉ EN INFORMATIQUE DE GESTION",
       logo_path: "1622120545040-removebg-preview.png",
       alt_name: "Institut Supérieur de Gestion Saint Michel",
-      duration: "2022-2023",
+      duration: "2023-2023",
       descriptions: [
 
         "⚡ J'ai étudié les sujets de base du génie logiciel comme les algorithmes, les SGBD, les systèmes d'exploitation, etc.",

@@ -341,7 +341,7 @@ const degrees = {
       subtitle: "LICENCE PROFESSIONNELLE EN INFORMATIQUE DE GESTION",
       logo_path: "Université-logo.png",
       alt_name: "Institut Supérieur de Gestion Saint Michel",
-      duration: "2021 - 2022",
+      duration: "2020 - 2022",
       descriptions: [
         "⚡ J'ai étudié les sujets de base du génie logiciel comme les algorithmes, les SGBD, les systèmes d'exploitation, etc.",
         "⚡ En dehors de cela, j'ai appris les aspects fondamentaux du domaine de l’informatique de gestion, le programme intègre les nouveaux contextes reliés aux domaines des affaires électroniques et l’organisation des entreprises en réseaux informatiques, la gestion spécialisée de bases de données et le développement de sites web.",

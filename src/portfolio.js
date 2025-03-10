@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Patrick Vieira",
+  title: "Patrick Vieira Gomes",
   logo_name: "Patrick Vieira Gomes",
   nickname: "Patrickvieira",
   subTitle:  

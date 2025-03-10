@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Patrick Vieira Gomes",
   logo_name: "Patrick Vieira Gomes",
-  nickname: "Patrickvieira",
+  nickname: "Patrickvieiragomes",
   subTitle:  
   "Je suis Patrick Vieira Gomes, un développeur web passionné par la création de sites innovants et performants. Mon objectif est de concevoir des solutions web alliant esthétique, fonctionnalité et optimisation pour une meilleure expérience utilisateur",
   resumeLink:

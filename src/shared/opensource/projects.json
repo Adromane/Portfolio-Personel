@@ -75,7 +75,7 @@
     {
       "id": "R_kgDOG0_8uQ",
       "name": "APPLICATION MÉTÉO",
-      "createdAt": "2022-02-11T14:50:20Z",
+      "createdAt": "2022-04-11T14:50:20Z",
       "url": "https://appmeteonetlify.netlify.app/", 
       "description": "🌀 Il s'agit d'une application construite en React qui interroge la météo et la météo de chaque ville. L'application consomme une API gratuite (Open Weather) dans laquelle l'utilisateur recherche une ville et l'application renvoie des données et des informations et les affiche à l'écran. Pour cette application, une requête API a été effectuée à l'aide de 'FETCH'. Des concepts tels que States, Components, Styled Components, JSX, API Request, ont été utilisés dans ce projet.",
       "isFork": false,

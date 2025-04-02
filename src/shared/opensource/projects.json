@@ -3,7 +3,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "todo-list",
-      "createdAt":"2020-01-07T16:26:54Z",
+      "createdAt":"2020-01-207T16:26:54Z",
       "url": "https://app-liste.netlify.app/",
       "description": "🌀Mon premier projet en React JS. Ce projet que j'ai développé pour appliquer mes connaissances en React JS ainsi que mes connaissances en HTML CSS et Javascript. Le projet consiste en une simple liste de tâches où l'utilisateur peut ajouter ou supprimer des tâches dans une liste. Dans ce projet, je n'ai pas travaillé avec le stockage local, donc les informations sont réinitialisées lorsque l'utilisateur recharge la page, car le focus ne fonctionnait pas avec la mémoire locale, donc le projet consistait simplement à appliquer les connaissances, les principes fondamentaux et les concepts de React, tels que comme : États, Composants, Props, JSX, etc... ",
       "isFork": false,

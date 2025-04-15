@@ -325,7 +325,7 @@ const degrees = {
     {
       title: "Université Catholique de l'Afrique de l'Ouest (UCAO)",
       subtitle: "MASTER SPÉCIALISÉ EN INFORMATIQUE DE GESTION",
-      logo_path: "1622120545040-removebg-preview.png",
+      logo_path: "",
       alt_name: "Institut Supérieur de Gestion Saint Michel",
       duration: "2023-2024",
       descriptions: [

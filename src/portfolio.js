@@ -580,7 +580,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "Vieira_gomes.png.",
+    profile_image_path: "Vieira_gomes.png",
     description:
     "Je suis disponible sur presque tous les réseaux sociaux. Vous pouvez m'envoyer un message, je vous répondrai dans les 24 heures.",
   },

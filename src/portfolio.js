@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Patrick Vieira Gomes",
   nickname: "Patrickvieiragomes",
   subTitle:  
-  "Je suis Patrick Vieira Gomes, un développeur web passionné par la création de sites innovants et performants. Mon objectif est de concevoir des solutions web alliant esthétique, fonctionnalité et optimisation pour une meilleure expérience utilisateur",
+  "Je m'appelle Patrick Vieira Gomes, développeur web passionné par la conception de sites modernes, efficaces et intuitifs. Mon objectif est de créer des solutions web qui allient une belle apparence visuelle, des fonctionnalités utiles et une performance optimale.",
   resumeLink:
     "https://drive.google.com/file/d/1ddfKuGSptFMVQcW80WkLRwvOHi145gzf/view?usp=drive_link",
   portfolio_repository: "https://github.com/Adromane",

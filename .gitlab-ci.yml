@@ -1,0 +1,41 @@
+stages:
+  - install
+  - test
+  - build
+  - deploy
+
+install_dependencies:
+  stage: install
+  image: node:18
+  script:
+    - npm install
+  artifacts:
+    paths:
+      - node_modules/
+
+run_tests:
+  stage: test
+  image: node:18
+  script:
+    - npm test
+  artifacts:
+    when: always
+    reports:
+      junit: report.xml
+    expire_in: 1 week
+
+build_app:
+  stage: build
+  image: node:18
+  script:
+    - npm run build
+  artifacts:
+    paths:
+      - build/
+    expire_in: 1 week
+
+deploy_production:
+  stage: deploy
+  script:
+    - echo "Déploiement à adapter ici selon ton serveur"
+  when: manual

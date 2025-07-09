@@ -397,7 +397,7 @@ const experience = {
           duration: "June 2024 - actuelment",
           location: "Dakar",  
           description:
-            "Sur mon GitLab, je centralise mes projets techniques, incluant des applications web, des scripts automatisés et des solutions innovantes. Vous y trouverez du code en [tes technologies principales], avec un accent particulier sur la qualité, la collaboration et l’amélioration continue.",
+            "Je centralise ici l’ensemble de mes travaux et expérimentations en développement. Vous y trouverez des projets allant d’applications web modernes à des scripts d’automatisation et des solutions open-source",
           color: "#0879bf",
         },
         {

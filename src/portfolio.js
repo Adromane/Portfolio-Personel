@@ -389,6 +389,17 @@ const experience = {
             "Sur mon Instagram, je partage mon parcours en développement web, réseaux et technologies, ainsi que des projets, astuces et moments inspirants. Rejoignez-moi pour découvrir mon univers et échanger autour de la tech !",
           color: "#0879bf",
         },
+         {
+          title: "🚀 Explorez mon GitHub",
+          company: "Github",
+          company_url: "https://github.com/Adromane",
+          logo_path: "github_logo.png",
+          duration: "June 2024 - actuelment",
+          location: "Dakar",
+          description:
+            "Sur mon GitLab, je partage mes réalisations en développement, allant des applications web à des projets open-source. Vous y découvrirez des solutions techniques variées, développées avec passion et rigueur.",
+          color: "#0879bf",
+        },
         {
           title: "🚀 Explorez mon GitHub",
           company: "Github",

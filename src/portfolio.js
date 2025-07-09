@@ -392,17 +392,6 @@ const experience = {
         {
           title: "🚀 Explorez mon GitHub",
           company: "Github",
-          company_url: "https://gitlab.com/Adromane",
-          logo_path: "github_logo.png",
-          duration: "June 2024 - actuelment",
-          location: "Dakar",
-          description:
-            "Sur mon GitLab, je publie mes projets de développement, allant d’applications web à des solutions open-source. Vous y trouverez du code en [tes technologies principales] ainsi que des idées innovantes et collaboratives.",
-          color: "#0879bf",
-        },
-        {
-          title: "🚀 Explorez mon GitHub",
-          company: "Github",
           company_url: "https://github.com/Adromane",
           logo_path: "github_logo.png", 
           duration: "June 2024 - actuelment",

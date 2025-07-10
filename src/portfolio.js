@@ -419,7 +419,7 @@ const experience = {
           duration: "june 2024-actuelment",
           location: "Dakar",
           description:
-            "Passionné par le développement logiciel, je partage sur mes plateformes (GitHub, GitLab, etc.) des projets variés allant d’applications web modernes à des solutions open-source innovantes.Avec une expertise en [tes technologies principales,",
+            "Passionné par le développement logiciel, je partage sur mes plateformes (GitHub, GitLab, etc.) des projets variés allant d’applications web modernes à des solutions open-source innovantes.Avec une expertise en [tes technologies principale],",
           color: "#fc1f20",
         },
       ],

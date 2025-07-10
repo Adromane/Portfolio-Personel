@@ -419,7 +419,7 @@ const experience = {
           duration: "june 2024-actuelment",
           location: "Dakar",
           description:
-            "Passionné par le développement web, les réseaux et les technologies, je partage ici mon parcours, mes projets, des astuces et des moments inspirants. 🚀 Rejoignez-moi pour échanger autour de la tech et grandir ensemble ! ",
+            "Passionné par le développement logiciel, je partage sur mes plateformes (GitHub, GitLab, etc.) des projets variés allant d’applications web modernes à des solutions open-source innovantes.Avec une expertise en [tes technologies principales,ex. React, Node.js,",
           color: "#fc1f20",
         },
       ],

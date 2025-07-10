@@ -397,7 +397,7 @@ const experience = {
           duration: "June 2024 - actuelment",
           location: "Dakar",
           description:
-            "Sur mon Gitlab, je publie mes réalisations en développement, allant des applications web à des projets open-source. Vous y trouverez du code en [tes technologies principales] ainsi que des solutions innovantes et collaboratives.",
+            "Sur mon GitLab, je partage mes réalisations en développement, allant d'applications web à des projets open-source. Vous y découvrirez du code écrit principalement en [tes technologies principales, ex. JavaScript, React, Node.js], ainsi que des solutions innovantes axées sur la qualité, la collaboration et l'efficacité.",
           color: "#0879bf",
         },
         {

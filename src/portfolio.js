@@ -397,7 +397,7 @@ const experience = {
           duration: "June 2024 - actuelment",
           location: "Dakar",
           description:
-            "Sur mon GitLab, je partage mes réalisations en développement, allant d'applications web à des projets open-source. Vous y découvrirez du code écrit principalement en [tes technologies principales, ex. JavaScript, React, Node.js],",
+            "Sur mon GitLab, je partage mes réalisations en développement, allant d'applications web à des projets open-source. Vous y découvrirez du code écrit principalement en [tes technologies principales, ex. JS, React, Node.js],",
           color: "#0879bf",
         },
         {
@@ -408,7 +408,7 @@ const experience = {
           duration: "June 2024 - actuelment",
           location: "Dakar",  
           description:
-            "Sur mon GitHub, je publie mes réalisations en développement, allant d’applications web à des projets open-source. Vous y trouverez du code en [tes technologies principales], ainsi que des solutions collaboratives, créatives et orientées.",
+            "Sur mon GitHub, je publie mes réalisations en développement, allant d’applications web à des projets open-source. Vous y trouverez du code en [tes technologies principales], ainsi que des solutions collaboratives, créatives,",
           color: "#0879bf",
         },
         {
@@ -419,7 +419,7 @@ const experience = {
           duration: "june 2024-actuelment",
           location: "Dakar",
           description:
-            "Passionné par le développement logiciel, je partage sur mes plateformes (GitHub, GitLab, etc.) des projets variés allant d’applications web modernes à des solutions open-source innovantes.Avec une expertise en [tes technologies principale],",
+            "Passionné par le développement logiciel, je partage sur mes plateformes (GitHub, GitLab, etc.) des projets variés allant d’applications web modernes à des solutions open-source innovantes.Avec une expertise en [tes technologies",
           color: "#fc1f20",
         },
       ],

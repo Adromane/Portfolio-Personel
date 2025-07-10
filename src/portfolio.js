@@ -391,7 +391,7 @@ const experience = {
         },
          {
           title: "🚀 Explorez mon GitHub",
-          company: "Github",
+          company: "Gitlab",
           company_url: "https://github.com/Adromane",
           logo_path: "github_logo.png",
           duration: "June 2024 - actuelment",

@@ -616,7 +616,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Número de telefone",
-    subtitle: "+221 77 365 70 56 / 77 508 88 30",
+    subtitle: "+245 957438837",
   },
 };
 

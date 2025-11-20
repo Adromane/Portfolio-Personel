@@ -392,7 +392,7 @@ const experience = {
          {
           title: "🚀 Explorez mon Gitlab",
           company: "Gitlab",
-          company_url: "https://gitlab.com/Adromane",
+          company_url: "https://www.facebook.com/",
           logo_path: "github_logo.png",
           duration: "June 2024 - actuelment",
           location: "Dakar",

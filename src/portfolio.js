@@ -391,7 +391,7 @@ const experience = {
         },
          {
           title: "🚀 Explorez mon Facebook",
-          company: "Gitlab",
+          company: "Facebook",
           company_url: "https://www.facebook.com/",
           logo_path: "github_logo.png",
           duration: "June 2024 - actuelment",

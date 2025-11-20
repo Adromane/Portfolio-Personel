@@ -390,7 +390,7 @@ const experience = {
           color: "#0879bf",
         },
          {
-          title: "🚀 Explorez mon Gitlab",
+          title: "🚀 Explorez mon Facebook",
           company: "Gitlab",
           company_url: "https://www.facebook.com/",
           logo_path: "github_logo.png",

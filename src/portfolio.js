@@ -605,7 +605,7 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Fass Delorme, Dakar - SENEGAL",
+      "Missira, Dakar - SENEGAL",
     locality: "Kanodar",
     country: "SN",
     region: "Dakar",

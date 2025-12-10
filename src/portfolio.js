@@ -615,7 +615,7 @@ const contactPageData = {
     location_map_link: "https://goo.gl/maps/e7kpWNbWvgfK98t88",
   },
   phoneSection: {
-    title: "Número de telefone",
+    title: "Numéro de telefone",
     subtitle: "+245 957438837",
   },
 };

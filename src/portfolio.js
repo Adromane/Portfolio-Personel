@@ -603,7 +603,7 @@ const contactPageData = {
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
-    title: "Address",
+    title: "Adresse",
     subtitle:
       "Missira, Bissau",
     locality: "Kanodar",

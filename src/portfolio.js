@@ -605,7 +605,7 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Missira, Dakar - SENEGAL",
+      "Missira, Bissau",
     locality: "Kanodar",
     country: "SN",
     region: "Dakar",

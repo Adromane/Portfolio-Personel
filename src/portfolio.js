@@ -393,7 +393,7 @@ const experience = {
           title: "🚀 Explorez mon Facebook",
           company: "Facebook",
           company_url: "https://www.facebook.com/",
-          logo_path: "github_logo.png",
+          logo_path: "facebook_logo.png",
           duration: "June 2024 - actuelment",
           location: "Dakar",
           description:

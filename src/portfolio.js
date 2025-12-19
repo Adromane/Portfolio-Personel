@@ -60,7 +60,7 @@ const socialMediaLinks = [
   },
   {
     name: "Whatsapp",
-    link: "https://wa.me/773657056",
+    link: "https://wa.me/957438837",
     fontAwesomeIcon: "fa-whatsapp", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#198754", // Reference https://simpleicons.org/?q=instagram
   },

@@ -415,7 +415,7 @@ const experience = {
           title: "💻Linkedin",
           company: "linkedin",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "Linkedin_logo.png", 
+          logo_path: "linkedin_logo.png", 
           duration: "june 2024-actuelment",
           location: "Dakar",
           description:

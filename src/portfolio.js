@@ -208,7 +208,7 @@ const skills = {
       skills: [
         "⚡ Expérience de travail sur plusieurs plates-formes cloud",
         "⚡ Hébergement et maintenance de sites Web sur des instances de machines virtuelles avec integration de bases de données",
-        "⚡ Déploiement de modeles d'apprentissage en profondeur sur le cloud à utiliser sur les appareils mobiles",
+        "⚡ Déploiement de modeles d'apprentissage en profondeur sur le cloud a utiliser sur les appareils mobiles",
         "⚡ Mise en place de la base de donnees au serveur.",
       ],
       softwareSkills: [

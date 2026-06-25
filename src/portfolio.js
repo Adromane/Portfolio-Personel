@@ -80,7 +80,7 @@ const skills = {
       fileName: "DataScienceImg",
       skills: [
         "⚡ Développement de sites Web reactifs a l'aide de frameworks tels que Bootstrap.",
-        "⚡ Capacité à travailler en equipe et à collaborer avec differents domaines.",
+        "⚡ Capacité à travailler en equipe et a collaborer avec differents domaines.",
         "⚡ Optimisation du site Web pour améliorer la vitesse de chargement et l'expérience utilisateur.",
       ],
       softwareSkills: [

@@ -4,7 +4,7 @@
 const settings = {
   isSplash: true, // Change this to false if you don't want Splash screen.
 };
- 
+
 //SEO Related settings
 const seo = {
   title: "Patrick Vieira Portfolio",
@@ -14,16 +14,16 @@ const seo = {
     title: "Patrick Vieira Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
-  },  
-}; 
+  },
+};
 
 //Home Page
 const greeting = {
   title: "Patrick Vieira Gomes",
   logo_name: "Patrick Vieira Gomes",
   nickname: "Patrickvieiragomes",
-  subTitle:  
-  "Mon parcours de développeur et administrateur de systèmes est dédié à la création de solutions robustes et évolutives. Explorez mes réalisations et contactez-moi pour toute collaboration.",
+  subTitle:
+    "Développeur & administrateur systèmes, je transforme les idées en solutions digitales robustes, sécurisées et évolutives. Découvrez mes réalisations et construisons ensemble vos projets.",
   resumeLink:
     "https://drive.google.com/file/d/1ddfKuGSptFMVQcW80WkLRwvOHi145gzf/view?usp=drive_link",
   portfolio_repository: "https://github.com/Adromane",
@@ -72,7 +72,7 @@ const socialMediaLinks = [
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
 ];
- 
+
 const skills = {
   data: [
     {
@@ -90,20 +90,20 @@ const skills = {
           style: {
             backgroundColor: "transparent",
           },
-        }, 
+        },
         {
           skillName: "Keras",
           fontAwesomeClassname: "simple-icons:keras",
-          style: { 
+          style: {
             backgroundColor: "white",
             color: "#D00000",
-          }, 
+          },
         },
         {
           skillName: "PyTorch",
           fontAwesomeClassname: "logos-pytorch",
           style: {
-            backgroundColor: "transparent",    
+            backgroundColor: "transparent",
           },
         },
         {
@@ -314,10 +314,7 @@ const skills = {
 
 // formation Page
 const competitiveSites = {
-  competitiveSites: [
-    {
-    },
-  ],
+  competitiveSites: [{}],
 };
 
 const degrees = {
@@ -329,7 +326,6 @@ const degrees = {
       alt_name: "Institut Supérieur de Gestion Saint Michel",
       duration: "2023-2024",
       descriptions: [
-
         "⚡ J'ai étudié les sujets de base du génie logiciel comme les algorithmes, les SGBD, les systèmes d'exploitation, etc.",
         "⚡ En dehors de cela, j'ai suivi des cours sur les sciences de la programmation telles que HTM, CSS, Node js, React et Js, le cloud computing et le développement Front-end et Backend",
         "⚡ Systèmes de gestion de bases de données : SQL, Oracle, MySQL et Capacité à travailler en équipe et à collaborer avec différents domaines.",
@@ -355,13 +351,10 @@ const degrees = {
 const certifications = {
   certifications: [
     // {
-      
-      
     //   logo_path: "stanford_logo.png",
     //   certificate_link:
     //     "",
     //   alt_name: "Stanford University",
-
     // },
   ],
 };
@@ -382,14 +375,14 @@ const experience = {
           title: "📸 Suivez-moi sur Instagram",
           company: "Instagram",
           company_url: "https://www.instagram.com",
-          logo_path: "Instagram_logo.png", 
+          logo_path: "Instagram_logo.png",
           duration: "June 2024 - actuelment",
-          location: "Dakar",  
+          location: "Dakar",
           description:
             "Sur mon Instagram, je partage mon parcours en développement web, réseaux et technologies, ainsi que des projets, astuces et moments inspirants. Rejoignez-moi pour découvrir mon univers et échanger autour de la tech !",
           color: "#0879bf",
         },
-         {
+        {
           title: "🚀 Explorez mon Facebook",
           company: "Facebook",
           company_url: "https://www.facebook.com/",
@@ -404,9 +397,9 @@ const experience = {
           title: "🚀 Explorez mon GitHub",
           company: "Github",
           company_url: "https://github.com/Adromane",
-          logo_path: "github_logo.png", 
+          logo_path: "github_logo.png",
           duration: "June 2024 - actuelment",
-          location: "Dakar",  
+          location: "Dakar",
           description:
             "Sur mon GitHub, je publie mes réalisations en développement, allant d’applications web à des projets open-source. Vous y trouverez du code en [tes technologies principales], ainsi que des solutions collaboratives, créatives,",
           color: "#0879bf",
@@ -415,7 +408,7 @@ const experience = {
           title: "💻Linkedin",
           company: "linkedin",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "linkedin_logo.png", 
+          logo_path: "linkedin_logo.png",
           duration: "june 2024-actuelment",
           location: "Dakar",
           description:
@@ -537,8 +530,7 @@ const projectsHeader = {
 
 const publicationsHeader = {
   title: "",
-  description:
-    "",
+  description: "",
   avatar_image_path: "",
 };
 
@@ -593,19 +585,18 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "Gomes_vieira.png.png",
     description:
-    "Je suis disponible sur presque tous les réseaux sociaux. Vous pouvez m'envoyer un message, je vous répondrai dans les 24 heures.",
+      "Je suis disponible sur presque tous les réseaux sociaux. Vous pouvez m'envoyer un message, je vous répondrai dans les 24 heures.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-     "Pour l'autonomisation fondamentale individuelle, j'aime écrire des leçons puissantes qui créent un impact sur chacun des lecteurs individuellement pour changer le cœur de leur personnage.",
+      "Pour l'autonomisation fondamentale individuelle, j'aime écrire des leçons puissantes qui créent un impact sur chacun des lecteurs individuellement pour changer le cœur de leur personnage.",
     link: "https://blogs.ashutoshhathidara.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Adresse",
-    subtitle:
-      "Missira, Bissau",
+    subtitle: "Missira, Bissau",
     locality: "Kanodar",
     country: "SN",
     region: "Dakar",

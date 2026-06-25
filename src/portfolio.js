@@ -126,7 +126,7 @@ const skills = {
       skills: [
         "⚡ Creation d'un site Web reactif avec React-Redux",
         "⚡ Developpement d'applications mobiles a l'aide de Flutter, React Native et d'applications Android solo a l'aide de Kotlin",
-        "⚡Création du backend de l'application dans Node, Express & Flask",
+        "⚡Creation du backend de l'application dans Node, Express & Flask",
       ],
       softwareSkills: [
         {

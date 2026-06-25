@@ -1,6 +1,6 @@
 {
   "private": true,
-  "Name": "masterPortfolio",
+  "name": "masterPortfolio",
   "homepage": ".",
   "version": "0.1.0",
   "scripts": {

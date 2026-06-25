@@ -524,7 +524,7 @@ const experience = {
 const projectsHeader = {
   title: "Projets",
   description:
-    "Permettez-moi de vous présenter mon projet passionnant qui allie innovation, créativité et expertise technique. Mon projet vise à [objectif principal du projet], en utilisant [méthodes ou technologies spécifiques] pour apporter une solution unique et efficace.",
+    "Ce projet reflète ma passion pour le développement et les réseaux informatiques. Il a été conçu pour résoudre un problème réel grâce à des technologies modernes, en alliant performance, sécurité et efficacité.",
   avatar_image_path: "projects_image.svg",
 };
 

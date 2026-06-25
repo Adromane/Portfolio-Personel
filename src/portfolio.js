@@ -79,7 +79,7 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Développement de sites Web réactifs a l'aide de frameworks tels que Bootstrap.",
+        "⚡ Développement de sites Web reactifs a l'aide de frameworks tels que Bootstrap.",
         "⚡ Capacité à travailler en équipe et à collaborer avec differents domaines.",
         "⚡ Optimisation du site Web pour améliorer la vitesse de chargement et l'expérience utilisateur.",
       ],

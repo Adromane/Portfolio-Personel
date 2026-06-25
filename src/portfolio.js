@@ -81,7 +81,7 @@ const skills = {
       skills: [
         "⚡ Développement de sites Web reactifs a l'aide de frameworks tels que Bootstrap.",
         "⚡ Capacite a travailler en equipe et a collaborer avec differents domaines.",
-        "⚡ Optimisation du site Web pour ameliorer la vitesse de chargement et l'expérience utilisateur.",
+        "⚡ Optimisation du site Web pour ameliorer la vitesse de chargement et l'experience utilisateur.",
       ],
       softwareSkills: [
         {

@@ -371,17 +371,7 @@ const experience = {
       title: "Travail",
       work: true,
       experiences: [
-        {
-          title: "📸 Suivez-moi sur Instagram",
-          company: "Instagram",
-          company_url: "https://www.instagram.com",
-          logo_path: "Instagram_logo.png",
-          duration: "June 2024 - actuelment",
-          location: "Dakar",
-          description:
-            "Sur mon Instagram, je partage mon parcours en développement web, réseaux et technologies, ainsi que des projets, astuces et moments inspirants. Rejoignez-moi pour découvrir mon univers et échanger autour de la tech !",
-          color: "#0879bf",
-        },
+       
         
         {
           title: "🚀 Explorez mon GitHub",

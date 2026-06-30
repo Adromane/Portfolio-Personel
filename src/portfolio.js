@@ -380,7 +380,7 @@ const experience = {
           duration: "June 2024 - actuelment",
           location: "Dakar",
           description:
-            "💻 Sur mon Instagram, je partage mes projets en développement web et open-source, avec du code et des solutions créatives et collaboratives. 🚀",
+            "💻Je partage mon parcours en développement web, réseaux et technologies, ainsi que mes projets, astuces et moments d’apprentissage dans la tech. Rejoignez-moi pour suivre mon évolution et échanger autour du numérique. 🚀",
           color: "#0879bf",
         },
         {

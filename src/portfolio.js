@@ -364,7 +364,7 @@ const experience = {
   title: "Experience",
   subtitle: "Travail",
   description:
-    "Mon apprentissage autodidacte m'a permis de maîtriser diverses technologies, notamment [liste des technologies ou outils pertinents]. Travailler de manière autonome m'a permis de développer une discipline personnelle, de résoudre des problèmes par moi-même et d'approfondir mon savoir-faire technique...",
+    "Autodidacte passionné, j'ai développé mes compétences en maîtrisant plusieurs technologies et outils. Cet apprentissage m'a permis de renforcer ma discipline, mon autonomie et ma capacité à résoudre des problèmes techniques..",
   header_image_path: "experience.svg",
   sections: [
     {

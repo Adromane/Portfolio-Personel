@@ -373,7 +373,7 @@ const experience = {
       experiences: [
 
         {
-          title: "🚀 Explorez mon GitHub",
+          title: "📸 Suivez-moi sur Instagram",
           company: "Github",
           company_url: "https://github.com/Adromane",
           logo_path: "github_logo.png",

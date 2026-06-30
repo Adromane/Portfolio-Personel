@@ -403,7 +403,7 @@ const experience = {
           location: "Dakar",
           description:
             "Sur mon GitHub, je publie mes réalisations en développement, allant d’applications web à des projets open-source. Vous y trouverez du code en [tes technologies principales], ainsi que des solutions collaboratives, créatives,",
-          color: "#0879bf",
+          color: "#0879bf", 
         },
         {
           title: "💻Linkedin",

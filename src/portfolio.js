@@ -384,7 +384,7 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "🚀 Explorez mon GitHub",
+          title: "💻 Explorez mon GitHub",
           company: "Facebook",
           company_url: "https://github.com/Adromane",
           logo_path: "github_logo.png",

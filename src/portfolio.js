@@ -326,9 +326,9 @@ const degrees = {
       alt_name: "Institut Supérieur de Gestion Saint Michel",
       duration: "2023-2024",
       descriptions: [
-        "⚡ J'ai étudié les sujets de base du génie logiciel comme les algorithmes, les SGBD, les systèmes d'exploitation, etc.",
-        "⚡ En dehors de cela, j'ai suivi des cours sur les sciences de la programmation telles que HTM, CSS, Node js, React et Js, le cloud computing et le développement Front-end et Backend",
-        "⚡ Systèmes de gestion de bases de données : SQL, Oracle, MySQL et Capacité à travailler en équipe et à collaborer avec différents domaines.",
+        "⚡J'ai étudié les sujets de base du génie logiciel comme les algorithmes, les SGBD, les systèmes d'exploitation, etc.",
+        "⚡En dehors de cela, j'ai suivi des cours sur les sciences de la programmation telles que HTM, CSS, Node js, React et Js, le cloud computing et le développement Front-end et Backend",
+        "⚡Systèmes de gestion de bases de données : SQL, Oracle, MySQL et Capacité à travailler en équipe et à collaborer avec différents domaines.",
       ],
       website_link: "https://www.st-michel.sn/",
     },

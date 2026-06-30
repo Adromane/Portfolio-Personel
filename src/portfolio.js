@@ -374,7 +374,7 @@ const experience = {
 
         {
           title: "📸 Suivez-moi sur Instagram",
-          company: "Github",
+          company: "Instagram",
           company_url: "https://github.com/Adromane",
           logo_path: "github_logo.png",
           duration: "June 2024 - actuelment",

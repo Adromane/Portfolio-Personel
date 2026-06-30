@@ -382,17 +382,7 @@ const experience = {
             "Sur mon Instagram, je partage mon parcours en développement web, réseaux et technologies, ainsi que des projets, astuces et moments inspirants. Rejoignez-moi pour découvrir mon univers et échanger autour de la tech !",
           color: "#0879bf",
         },
-        {
-          title: "🚀 Explorez mon Facebook",
-          company: "Facebook",
-          company_url: "https://www.facebook.com/",
-          logo_path: "facebook_logo.png",
-          duration: "June 2024 - actuelment",
-          location: "Dakar",
-          description:
-            "Sur mon Facebook, je partage mes réalisations en développement, allant d'applications web à des projets open-source. Vous y découvrirez du code écrit principalement en [tes technologies principales, ex. JS, React, Node.js],",
-          color: "#0879bf",
-        },
+        
         {
           title: "🚀 Explorez mon GitHub",
           company: "Github",

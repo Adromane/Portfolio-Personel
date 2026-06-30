@@ -391,7 +391,7 @@ const experience = {
           duration: "June 2024 - actuelment",
           location: "Dakar",
           description:
-            "💻 Sur cette page, je partage mes réalisations en développement web : applications, projets open-source et solutions collaboratives. Code, créativité et innovation avec mes technologies principales. 🚀",
+            "🚀Développeur passionné, je partage ici mes projets web, applications et contributions open-source. Code, innovation et collaboration au rendez-vous.🚀",
           color: "#0879bf",
         },
         {

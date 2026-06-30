@@ -413,7 +413,7 @@ const experience = {
           duration: "june 2024-actuelment",
           location: "Dakar",
           description:
-            "Mon objectif est de progresser dans le domaine IT, de développer mes compétences et d’échanger avec d’autres passionnés et professionnels du secteur.",
+            "Bienvenue sur ma page! Mon objectif est de progresser dans le domaine IT, de développer mes compétences et d’échanger avec d’autres passionnés et professionnels du secteur.",
           color: "#fc1f20",
         },
       ],

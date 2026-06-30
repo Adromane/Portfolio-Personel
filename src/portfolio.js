@@ -274,7 +274,7 @@ const skills = {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
-        "⚡ Concevoir une interface utilisateur très attrayante pour les applications mobiles et Web",
+        "⚡Concevoir une interface utilisateur très attrayante pour les applications mobiles et Web",
         "⚡ Personnaliser les conceptions de logo et créer des logos à partir de zero",
         "⚡ Créer le flux des fonctionnalités de l'application pour optimiser l'expérience utilisateur",
       ],

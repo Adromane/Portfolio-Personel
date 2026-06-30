@@ -385,13 +385,13 @@ const experience = {
         },
         {
           title: "🚀 Explorez mon GitHub",
-          company: "Github",
+          company: "Facebook",
           company_url: "https://github.com/Adromane",
           logo_path: "github_logo.png",
           duration: "June 2024 - actuelment",
           location: "Dakar",
           description:
-            "🚀Développeur passionné, je partage ici mes projets web, applications et contributions open-source. Code, innovation et collaboration au rendez-vous.🚀",
+            "🚀Je partage ici mon parcours dans le développement web, les réseaux informatiques et les technologies. Vous y trouverez mes projets, des astuces, ainsi que des contenus utiles pour progresser dans le domaine de la tech.",
           color: "#0879bf",
         },
         {

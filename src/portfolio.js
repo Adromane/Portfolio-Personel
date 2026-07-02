@@ -385,7 +385,7 @@ const experience = {
         },
         {
           title: "💻 Explorez mon GitHub",
-          company: "Facebook",
+          company: "Page facebook",
           company_url: "https://www.facebook.com/profile.php?id=61566801371695",
           logo_path: "facebook_logo.png",
           duration: "June 2024 - actuelment",

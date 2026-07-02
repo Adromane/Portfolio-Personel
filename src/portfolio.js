@@ -376,7 +376,7 @@ const experience = {
           title: "📸 Suivez-moi sur Instagram",
           company: "Instagram",
           company_url: "https://github.com/Adromane",
-          logo_path: "github_logo.png",
+          logo_path: "social_png",
           duration: "June 2024 - actuelment",
           location: "Dakar",
           description:

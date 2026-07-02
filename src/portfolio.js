@@ -384,7 +384,7 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "💻 Explorez mon GitHub",
+          title: "💻 Bienvenue sur ma page",
           company: "Page facebook",
           company_url: "https://www.facebook.com/profile.php?id=61566801371695",
           logo_path: "facebook_logo.png",

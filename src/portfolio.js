@@ -387,7 +387,7 @@ const experience = {
           title: "💻 Explorez mon GitHub",
           company: "Facebook",
           company_url: "https://github.com/Adromane",
-          logo_path: "github_logo.png",
+          logo_path: "facebook_logo.png",
           duration: "June 2024 - actuelment",
           location: "Dakar",
           description:

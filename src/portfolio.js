@@ -373,17 +373,6 @@ const experience = {
       experiences: [
 
         {
-          title: "📸 Suivez-moi sur Instagram",
-          company: "Instagram",
-          company_url: "https://github.com/Adromane",
-          logo_path: "github_logo.png",
-          duration: "June 2024 - actuelment",
-          location: "Dakar",
-          description:
-            "💻Je partage mon parcours en développement web, réseaux et technologies, ainsi que mes projets, astuces et moments d’apprentissage dans la tech. Rejoignez-moi pour suivre mon évolution et échanger autour du numérique. 🚀",
-          color: "#0879bf",
-        },
-        {
           title: "💻 Bienvenue sur ma page",
           company: "Facebook",
           company_url: "https://www.facebook.com/profile.php?id=61566801371695",

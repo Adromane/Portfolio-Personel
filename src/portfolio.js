@@ -395,6 +395,17 @@ const experience = {
           color: "#0879bf", 
         },
         {
+          title: "📸 Suivez-moi sur Instagram",
+          company: "Instagram",
+          company_url: "https://github.com/Adromane",
+          logo_path: "github_logo.png",
+          duration: "June 2024 - actuelment",
+          location: "Dakar",
+          description:
+            "💻Je partage mon parcours en développement web, réseaux et technologies, ainsi que mes projets, astuces et moments d’apprentissage dans la tech. Rejoignez-moi pour suivre mon évolution et échanger autour du numérique. 🚀",
+          color: "#0879bf",
+        },
+        {
           title: "💻Linkedin",
           company: "linkedin",
           company_url: "https://www.linkedin.com/company/freecopy/about/", 
@@ -405,6 +416,7 @@ const experience = {
             "Bienvenue sur ma page linkedin! Mon objectif est de progresser dans le domaine IT, de développer mes compétences et d’échanger avec d’autres passionnés et professionnels du secteur.",
           color: "#fc1f20",
         },
+        
       ],
     },
     {

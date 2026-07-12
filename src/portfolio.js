@@ -413,7 +413,7 @@ const experience = {
           duration: "june 2024-actuelment",
           location: "Dakar",
           description:
-            "Sur ce profil, je mets en avant mes projets techniques, mes compétences en développement web, administration systèmes et infrastructures réseau, tout en partageant mes apprentissages et ma veille technologique.",
+            " 💻 Sur ce profil, je mets en avant mes projets techniques, mes compétences en développement web, administration systèmes et infrastructures réseau, tout en partageant mes apprentissages et ma veille technologique.",
           color: "#fc1f20",
         },
         

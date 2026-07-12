@@ -413,7 +413,7 @@ const experience = {
           duration: "june 2024-actuelment",
           location: "Dakar",
           description:
-            "Bienvenue sur ma page linkedin! Mon objectif est de progresser dans le domaine IT, de développer mes compétences et d’échanger avec d’autres passionnés et professionnels du secteur.",
+            "À travers mes projets, mes expériences et mes apprentissages continus, je présente mes réalisations, mes découvertes techniques et les solutions que je développe pour progresser dans l’univers du numérique.💻",
           color: "#fc1f20",
         },
         

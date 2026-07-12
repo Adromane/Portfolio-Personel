@@ -406,7 +406,7 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "💻Linkedin",
+          title: "✨Linkedin",
           company: "linkedin",
           company_url: "https://www.linkedin.com/company/freecopy/about/", 
           logo_path: "linkedin_logo.png",

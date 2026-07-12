@@ -413,7 +413,7 @@ const experience = {
           duration: "june 2024-actuelment",
           location: "Dakar",
           description:
-            "À travers mes projets, mes expériences et mes apprentissages continus, je présente mes réalisations, mes découvertes techniques et les solutions que je développe pour progresser dans l’univers du numérique.💻",
+            "Sur ce profil, je mets en avant mes projets techniques, mes compétences en développement web, administration systèmes et infrastructures réseau, tout en partageant mes apprentissages et ma veille technologique.",
           color: "#fc1f20",
         },
         

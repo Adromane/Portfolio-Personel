@@ -601,7 +601,7 @@ const contactPageData = {
     subtitle: "Missira, Bissau",
     locality: "Kanodar",
     country: "GB",
-    region: "Dakar",
+    region: "Bissau",
     postalCode: "385520",
     streetAddress: "Ambavadi vas",
     avatar_image_path: "address_image.svg",

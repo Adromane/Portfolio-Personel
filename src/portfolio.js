@@ -605,7 +605,7 @@ const contactPageData = {
     postalCode: "385520",
     streetAddress: "Ambavadi vas",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/e7kpWNbWvgfK98t88",
+    location_map_link: "https://maps.app.goo.gl/szRVH33Qozp5KmaD6",
   },
   phoneSection: {
     title: "Numéro de telefone",

@@ -609,7 +609,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Numéro de telefone",
-    subtitle: "+245 957438837",
+    subtitle: "+245 957 438 837",
   },
 };
 

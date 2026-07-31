@@ -420,7 +420,7 @@ const experience = {
       ],
     },
     {
-      title: "Internships",
+      title: "🎓 Stage",
       experiences: [
         // {
         //   title: "Machine Learning Intern",

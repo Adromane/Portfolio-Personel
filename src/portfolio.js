@@ -426,8 +426,8 @@ const experience = {
            title: "Machine Learning Intern",
            company: "TikTok Inc.",
            company_url: "https://www.tiktok.com/en/",
-        //   logo_path: "tiktok_logo.png",
-        //   duration: "May 2022 - Aug 2022",
+           logo_path: "tiktok_logo.png",
+           duration: "May 2022 - Aug 2022",
         //   location: "San Francisco, USA",
         //   description:
         //     "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",

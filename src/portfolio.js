@@ -423,9 +423,9 @@ const experience = {
       title: "🎓 Stage",
       experiences: [
          {
-           title: "Machine Learning Intern",
-           company: "TikTok Inc.",
-           company_url: "https://www.tiktok.com/en/",
+        //   title: "Machine Learning Intern",
+        //   company: "TikTok Inc.",
+        //   company_url: "https://www.tiktok.com/en/",
         //   logo_path: "tiktok_logo.png",
         //   duration: "May 2022 - Aug 2022",
         //   location: "San Francisco, USA",

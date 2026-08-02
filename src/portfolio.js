@@ -445,7 +445,7 @@ const experience = {
            color: "#ee3c26",
         },
          {
-           title: "Data Science Intern",
+           title: "APGB",
            company: "Intel Indexer LLC",
            company_url:
              "https://opencorporates.com/companies/us_dc/EXTUID_4170286",

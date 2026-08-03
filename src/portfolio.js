@@ -435,7 +435,7 @@ const experience = {
     },
   ],
 },
-    {
+  {
       title: "Volunteerships",
       experiences: [
         // {

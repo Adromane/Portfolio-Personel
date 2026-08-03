@@ -419,7 +419,7 @@ const experience = {
         
       ],
     },
-      {
+    {
   title: "🎓 Stage",
   experiences: [
     {

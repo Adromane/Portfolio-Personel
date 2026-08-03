@@ -426,7 +426,7 @@ const experience = {
       title: "APGB",
       company: "APGB",
       company_url: "",
-      logo_path: "apgb-logo.png",
+      logo_path: "apgb_logo.png",
       duration: "Juillet 2026 - Actuellement",
       location: "Bissau",
       description:

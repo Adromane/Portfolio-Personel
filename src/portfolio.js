@@ -368,7 +368,7 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "🚀 Projets",
+      title: "🚀 Contenu & Réseaux sociaux",
       work: true,
       experiences: [
 

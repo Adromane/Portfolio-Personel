@@ -430,7 +430,7 @@ const experience = {
       duration: "Juin 2026 - Actuellement",
       location: "Av. Amílcar Cabral, Porto de Bissau, Bissau, Guiné-Bissau",
       description:
-        "Stage en administration systèmes et réseaux informatiques. Participation à la gestion des infrastructures informatiques, au support technique et au suivi des systèmes.",
+        "Dans le cadre de mon stage professionnel à l’Administration des Ports de Guinée-Bissau (APGB), j’intègre actuellement le Service de Contrôle et Fiscalisation, où je participe aux différentes activités liées au contrôle, au suivi et au traitement des informations relatives aux opérations portuaires..",
       color: "#0071C5",
     },
   ],

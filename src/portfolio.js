@@ -424,7 +424,7 @@ const experience = {
   experiences: [
     {
       title: "APGB",
-      company: "APGB",
+      company: "Administration des Ports de Guinée-Bissau (APGB)",
       company_url: "https://www.apgbports.com/?utm_source=chatgpt.com",
       logo_path: "apgb_logo.png",
       duration: "Juillet 2026 - Actuellement",

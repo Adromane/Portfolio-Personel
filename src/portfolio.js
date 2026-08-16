@@ -410,8 +410,8 @@ const experience = {
           company: "linkedin",
           company_url: "https://www.linkedin.com/company/freecopy/about/", 
           logo_path: "linkedin_logo.png",
-          duration: "june 2024-actuelment",
-          location: "Dakar",
+          duration: "june 2026-actuelment",
+          location: "Bissau",
           description:
             " 💻 Sur ce profil, je mets en avant mes projets techniques, mes compétences en développement web, administration systèmes et infrastructures réseau, tout en partageant mes apprentissages et ma veille technologique.",
           color: "#fc1f20",

@@ -420,7 +420,7 @@ const experience = {
       ],
     },
     {
-  title: "🎓 Stage",
+  title: "🎓 Stagiaire — Service de Contrôle et Fiscalisation",
   experiences: [
     {
       title: "APGB",

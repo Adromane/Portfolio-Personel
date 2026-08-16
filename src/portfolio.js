@@ -378,7 +378,7 @@ const experience = {
           company_url: "https://www.facebook.com/profile.php?id=61566801371695",
           logo_path: "facebook_logo.png",
           duration: "June 2026 - actuelment",
-          location: "Dakar",
+          location: "Bissau",
           description:
             "🚀Je partage ici mon parcours dans le développement web, les réseaux informatiques et les technologies. Vous y trouverez mes projets, des astuces, ainsi que des contenus utiles pour progresser dans le domaine de la tech.",
           color: "#0879bf",

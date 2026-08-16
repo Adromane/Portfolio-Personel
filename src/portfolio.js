@@ -388,7 +388,7 @@ const experience = {
           company: "Github",
           company_url: "https://github.com/Adromane",
           logo_path: "github_logo.png",
-          duration: "June 2024 - actuelment",
+          duration: "June 2026 - actuelment",
           location: "Dakar",
           description:
             "Sur mon GitHub, je publie mes réalisations en développement, allant d’applications web à des projets open-source. Vous y trouverez du code en [tes technologies principales], ainsi que des solutions collaboratives, créatives,",

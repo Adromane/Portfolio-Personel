@@ -380,7 +380,7 @@ const experience = {
           duration: "June 2026 - actuelment",
           location: "Bissau",
           description:
-            "🚀JCréation et publication régulière de contenus autour de l'informatique,des systèmes et réseaux, de la cybersécurité, du développement web et des nouvelles technologies. Cette activité me permet de partager mes connaissances, de développer ma présence professionnelle en ligne et de rester en veille sur les évolutions technologiques..",
+            "🚀Création et publication régulière de contenus autour de l'informatique,des systèmes et réseaux, de la cybersécurité, du développement web et des nouvelles technologies. Cette activité me permet de partager mes connaissances, de développer ma présence professionnelle en ligne et de rester en veille sur les évolutions technologiques..",
           color: "#0879bf",
         },
         {

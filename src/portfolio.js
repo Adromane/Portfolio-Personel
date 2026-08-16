@@ -427,7 +427,7 @@ const experience = {
       company: "APGB",
       company_url: "https://www.apgbports.com/?utm_source=chatgpt.com",
       logo_path: "apgb_logo.png",
-      duration: "Juillet 2026 - Actuellement",
+      duration: "Juin 2026 - Actuellement",
       location: "Bissau",
       description:
         "Stage en administration systèmes et réseaux informatiques. Participation à la gestion des infrastructures informatiques, au support technique et au suivi des systèmes.",

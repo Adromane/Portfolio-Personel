@@ -373,7 +373,7 @@ const experience = {
       experiences: [
 
         {
-          title: "💻 Bienvenue sur ma page",
+          title: "💻 Création et partage de contenu informatique",
           company: "Facebook", 
           company_url: "https://www.facebook.com/profile.php?id=61566801371695",
           logo_path: "facebook_logo.png",

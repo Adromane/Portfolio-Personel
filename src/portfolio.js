@@ -423,7 +423,7 @@ const experience = {
   title: "🎓 Stagiaire — Service de Contrôle et Fiscalisation",
   experiences: [
     {
-      title: "APGB",
+      title: "Stagiaire — Service de Contrôle et Fiscalisation",
       company: "Administration des Ports de Guinée-Bissau (APGB)",
       company_url: "https://www.apgbports.com/?utm_source=chatgpt.com",
       logo_path: "apgb_logo.png",

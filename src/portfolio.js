@@ -428,7 +428,7 @@ const experience = {
       company_url: "https://www.apgbports.com/?utm_source=chatgpt.com",
       logo_path: "apgb_logo.png",
       duration: "Juin 2026 - Actuellement",
-      location: "Bissau",
+      location: "Av. Amílcar Cabral, Porto de Bissau, Bissau, Guiné-Bissau",
       description:
         "Stage en administration systèmes et réseaux informatiques. Participation à la gestion des infrastructures informatiques, au support technique et au suivi des systèmes.",
       color: "#0071C5",

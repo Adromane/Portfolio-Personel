@@ -400,7 +400,7 @@ const experience = {
           company_url: "https://www.instagram.com/gomespatrickvieira",
           logo_path: "instagram_logo.png",
           duration: "June 2024 - actuelment",
-          location: "Dakar",
+          location: "Bissau",
           description:
             " 🌍Je partage mon parcours en développement web, réseaux et technologies, ainsi que mes projets, astuces et moments d’apprentissage dans la tech. Rejoignez-moi pour suivre mon évolution et échanger autour du numérique.",
           color: "#0879bf",

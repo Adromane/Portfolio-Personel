@@ -374,7 +374,7 @@ const experience = {
 
         {
           title: "💻 Bienvenue sur ma page",
-          company: "Facebook",
+          company: "Facebook", 
           company_url: "https://www.facebook.com/profile.php?id=61566801371695",
           logo_path: "facebook_logo.png",
           duration: "June 2026 - actuelment",

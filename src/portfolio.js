@@ -413,7 +413,7 @@ const experience = {
           duration: "june 2026-actuelment",
           location: "Bissau",
           description:
-            " 💻 Sur ce profil, je mets en avant mes projets techniques, mes compétences en développement web, administration systèmes et infrastructures réseau, tout en partageant mes apprentissages et ma veille technologique.",
+            " 💻 Sur LinkedIn, je présente mon parcours professionnel, mes compétences et mes expériences dans le domaine de l’informatique. Je partage également mes projets, mes apprentissages et des contenus liés au développement web, à l’administration des systèmes et aux infrastructures réseau.",
           color: "#fc1f20",
         },
         

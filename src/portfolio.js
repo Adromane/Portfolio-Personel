@@ -402,7 +402,7 @@ const experience = {
           duration: "June 2026 - actuelment",
           location: "Bissau",
           description:
-            " 🌍Je partage mon parcours en développement web, réseaux et technologies, ainsi que mes projets, astuces et moments d’apprentissage dans la tech. Rejoignez-moi pour suivre mon évolution et échanger autour du numérique.",
+            " 🌍Je partage mon parcours dans le domaine de l’informatique, notamment autour du développement web, des systèmes, des réseaux et des nouvelles technologies. Je publie également des contenus éducatifs, des conseils, mes apprentissages et différentes étapes de mon évolution professionnelle.",
           color: "#0879bf",
         },
         {

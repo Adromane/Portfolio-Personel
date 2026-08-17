@@ -391,7 +391,7 @@ const experience = {
           duration: "June 2026 - actuelment",
           location: "Bissau",
           description:
-            "Sur mon GitHub, je publie mes réalisations en développement, allant d’applications web à des projets open-source. Vous y trouverez du code en [tes technologies principales], ainsi que des solutions collaboratives, créatives,",
+            "Sur GitHub, je présente mes projets et travaux pratiques dans le domaine de l’informatique, notamment en développement web, administration systèmes et réseaux. J’y partage mon code, mes expérimentations et différentes solutions techniques développées au cours de mon apprentissage et de mes expériences.",
           color: "#0879bf", 
         },
         {

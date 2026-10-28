@@ -2,10 +2,6 @@
   "private": true,
   "name": "masterPortfolio",
   "version": "0.1.0",
-
-  "engines": {
-  "node": "20.x"
-},
   "homepage": ".",
   "scripts": {
     "build": "react-scripts build",
@@ -21,7 +17,6 @@
     "baseui": "^9.65.3",
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
-    "fs": "0.0.1-security",
     "gh-pages": "^6.1.1",
     "graphql": "^14.5.8",
     "node-fetch": "^2.6.0",
@@ -41,12 +36,16 @@
     "styletron-react": "^5.2.7"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@iconify/icons-logos": "^1.0.9",
     "@iconify/react": "^1.1.1",
     "dotenv": "^6.2.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
     "prettier": "2.0.5"
+  },
+  "engines": {
+    "node": "20.x"
   },
   "browserslist": {
     "production": [

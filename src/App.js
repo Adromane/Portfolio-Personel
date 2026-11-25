@@ -4,6 +4,7 @@ import Main from "./containers/Main";
 import { ThemeProvider } from "styled-components";
 import { chosenTheme } from "./theme";
 import { GlobalStyles } from "./global";
+import { LanguageProvider } from "./contexts/LanguageContext";
 
 function App() {
   return (
@@ -19,4 +20,3 @@ function App() {
 }
 
 export default App;
-   

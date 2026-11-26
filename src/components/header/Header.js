@@ -16,6 +16,7 @@ const onMouseOut = (event) => {
   el.style.backgroundColor = "transparent";
 };
 class Header extends Component {
+  static contextType = LanguageContext;
   render() {
     const theme = this.props.theme;
     const link = settings.isSplash ? "/splash" : "home";

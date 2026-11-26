@@ -86,6 +86,20 @@ class Header extends Component {
                   {t("projects")}
                 </NavLink>
               </li>
+
+              <li>
+                <NavLink
+                  to="/contact"
+                  tag={Link}
+                  activeStyle={{ fontWeight: "bold" }}
+                  style={{ color: theme.text }}
+                  onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
+                  onMouseOut={(event) => onMouseOut(event)}
+                >
+                  {t("contact")}
+                </NavLink>
+              </li>
+
               <li className="language-selector">
                 <select
                   value={language}
@@ -103,20 +117,6 @@ class Header extends Component {
                   <option value="pt">🇬🇼 Português</option>
                   <option value="en">🇬🇧 English</option>
                 </select>
-              </li>
-              <li>
-                <NavLink
-                  to="/contact"
-                  tag={Link}
-                  activeStyle={{ fontWeight: "bold" }}
-                  style={{ color: theme.text }}
-                  onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
-                  onMouseOut={(event) => onMouseOut(event)}
-                >
-                  {t("contact")}
-                  Accueil Formation Expérience Projets Contact Sélecteur de
-                  langue
-                </NavLink>
               </li>
             </ul>
           </header>

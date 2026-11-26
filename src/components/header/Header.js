@@ -86,6 +86,24 @@ class Header extends Component {
                   {t("projects")}
                 </NavLink>
               </li>
+              <li className="language-selector">
+                <select
+                  value={language}
+                  onChange={(e) => changeLanguage(e.target.value)}
+                  style={{
+                    backgroundColor: theme.body,
+                    color: theme.text,
+                    border: `1px solid ${theme.text}`,
+                    padding: "8px",
+                    borderRadius: "5px",
+                    cursor: "pointer",
+                  }}
+                >
+                  <option value="fr">🇫🇷 Français</option>
+                  <option value="pt">🇬🇼 Português</option>
+                  <option value="en">🇬🇧 English</option>
+                </select>
+              </li>
               <li>
                 <NavLink
                   to="/contact"

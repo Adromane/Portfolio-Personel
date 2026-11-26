@@ -1,5 +1,5 @@
-import { LanguageContext } from "../../contexts/LanguageContext";
 import React, { Component } from "react";
+import { LanguageContext } from "../../contexts/LanguageContext";
 import "./Header.css";
 import { Fade } from "react-reveal";
 import { NavLink, Link } from "react-router-dom";
@@ -15,7 +15,6 @@ const onMouseOut = (event) => {
   const el = event.target;
   el.style.backgroundColor = "transparent";
 };
-
 class Header extends Component {
   render() {
     const theme = this.props.theme;

@@ -8,14 +8,16 @@ import { LanguageProvider } from "./contexts/LanguageContext";
 
 function App() {
   return (
-    <ThemeProvider theme={chosenTheme}>
-      <>
-        <GlobalStyles />
-        <div>
-          <Main theme={chosenTheme} />
-        </div>
-      </>
-    </ThemeProvider>
+    <LanguageProvider>
+      <ThemeProvider theme={chosenTheme}>
+        <>
+          <GlobalStyles />
+          <div>
+            <Main theme={chosenTheme} />
+          </div>
+        </>
+      </ThemeProvider>
+    </LanguageProvider>
   );
 }
 

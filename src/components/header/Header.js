@@ -1,3 +1,4 @@
+import { LanguageContext } from "../../contexts/LanguageContext";
 import React, { Component } from "react";
 import "./Header.css";
 import { Fade } from "react-reveal";

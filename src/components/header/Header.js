@@ -19,6 +19,7 @@ class Header extends Component {
   static contextType = LanguageContext;
   render() {
     const theme = this.props.theme;
+    const { language, changeLanguage, t } = this.context;
     const link = settings.isSplash ? "/splash" : "home";
     return (
       <Fade top duration={1000} distance="20px">

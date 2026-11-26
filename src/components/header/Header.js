@@ -114,6 +114,8 @@ class Header extends Component {
                   onMouseOut={(event) => onMouseOut(event)}
                 >
                   {t("contact")}
+                  Accueil Formation Expérience Projets Contact Sélecteur de
+                  langue
                 </NavLink>
               </li>
             </ul>

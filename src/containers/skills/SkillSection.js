@@ -3,6 +3,8 @@ import "./Skills.css";
 import SoftwareSkill from "../../components/softwareSkills/SoftwareSkill";
 import { skills } from "../../portfolio";
 import { Fade } from "react-reveal";
+import { LanguageContext } from "../../contexts/LanguageContext";
+
 import DataScienceImg from "./DataScienceImg";
 import FullStackImg from "./FullStackImg";
 import CloudInfraImg from "./CloudInfraImg";
@@ -15,23 +17,24 @@ function GetSkillSvg(props) {
     return <FullStackImg theme={props.theme} />;
   else if (props.fileName === "CloudInfraImg")
     return <CloudInfraImg theme={props.theme} />;
+
   return <DesignImg theme={props.theme} />;
 }
 
 class SkillSection extends Component {
+  static contextType = LanguageContext;
+
   render() {
     const theme = this.props.theme;
+    const { t } = this.context;
+
     return (
       <div>
-        {skills.data.map((skill) => {
+        {skills.data.map((skill, index) => {
           return (
-            <div className="skills-main-div">
+            <div className="skills-main-div" key={index}>
               <Fade left duration={2000}>
                 <div className="skills-image-div">
-                  {/* <img
-                    alt="Ashutosh is Analysing Data"
-                    src={require(`../../assests/images/${skill.imagePath}`)}
-                  ></img> */}
                   <GetSkillSvg fileName={skill.fileName} theme={theme} />
                 </div>
               </Fade>
@@ -39,24 +42,27 @@ class SkillSection extends Component {
               <div className="skills-text-div">
                 <Fade right duration={1000}>
                   <h1 className="skills-heading" style={{ color: theme.text }}>
-                    {skill.title}
+                    {t(`skill_${index}_title`)}
                   </h1>
                 </Fade>
+
                 <Fade right duration={1500}>
                   <SoftwareSkill logos={skill.softwareSkills} />
                 </Fade>
+
                 <Fade right duration={2000}>
                   <div>
-                    {skill.skills.map((skillSentence) => {
-                      return (
-                        <p
-                          className="subTitle skills-text"
-                          style={{ color: theme.secondaryText }}
-                        >
-                          {skillSentence}
-                        </p>
-                      );
-                    })}
+                    {skill.skills.map((skillSentence, i) => (
+                      <p
+                        key={i}
+                        className="subTitle skills-text"
+                        style={{
+                          color: theme.secondaryText,
+                        }}
+                      >
+                        {t(`skill_${index}_desc_${i}`)}
+                      </p>
+                    ))}
                   </div>
                 </Fade>
               </div>

@@ -84,36 +84,36 @@ const translations = {
     experience: "Experience",
     projects: "Projects",
     contact: "Contact",
+
+    skill_0_title: "Data Science & Artificial Intelligence",
+    skill_0_desc_0:
+      "⚡ Development of responsive websites using frameworks such as Bootstrap.",
+    skill_0_desc_1:
+      "⚡ Ability to work in teams and collaborate across different fields.",
+    skill_0_desc_2:
+      "⚡ Website optimization to improve loading speed and user experience.",
+
+    skill_1_title: "Full Stack Development",
+    skill_1_desc_0: "⚡ Creation of responsive websites using React and Redux.",
+    skill_1_desc_1:
+      "⚡ Development of mobile applications using Flutter, React Native and Kotlin.",
+    skill_1_desc_2: "⚡ Backend development using Node.js, Express and Flask.",
+
+    skill_2_title: "Cloud Architecture & Infrastructure",
+    skill_2_desc_0: "⚡ Experience working with multiple Cloud platforms.",
+    skill_2_desc_1:
+      "⚡ Hosting and maintenance of websites on virtual machines with database integration.",
+    skill_2_desc_2:
+      "⚡ Deployment of deep learning models in the Cloud for mobile devices.",
+    skill_2_desc_3: "⚡ Database implementation on servers.",
+
+    skill_3_title: "UI/UX Design",
+    skill_3_desc_0:
+      "⚡ Designing attractive user interfaces for mobile and Web applications.",
+    skill_3_desc_1: "⚡ Customization and creation of logos.",
+    skill_3_desc_2:
+      "⚡ Creating application workflows to optimize user experience.",
   },
-
-  skill_0_title: "Data Science & Artificial Intelligence",
-  skill_0_desc_0:
-    "⚡ Development of responsive websites using frameworks such as Bootstrap.",
-  skill_0_desc_1:
-    "⚡ Ability to work in teams and collaborate across different fields.",
-  skill_0_desc_2:
-    "⚡ Website optimization to improve loading speed and user experience.",
-
-  skill_1_title: "Full Stack Development",
-  skill_1_desc_0: "⚡ Creation of responsive websites using React and Redux.",
-  skill_1_desc_1:
-    "⚡ Development of mobile applications using Flutter, React Native and Kotlin.",
-  skill_1_desc_2: "⚡ Backend development using Node.js, Express and Flask.",
-
-  skill_2_title: "Cloud Architecture & Infrastructure",
-  skill_2_desc_0: "⚡ Experience working with multiple Cloud platforms.",
-  skill_2_desc_1:
-    "⚡ Hosting and maintenance of websites on virtual machines with database integration.",
-  skill_2_desc_2:
-    "⚡ Deployment of deep learning models in the Cloud for mobile devices.",
-  skill_2_desc_3: "⚡ Database implementation on servers.",
-
-  skill_3_title: "UI/UX Design",
-  skill_3_desc_0:
-    "⚡ Designing attractive user interfaces for mobile and Web applications.",
-  skill_3_desc_1: "⚡ Customization and creation of logos.",
-  skill_3_desc_2:
-    "⚡ Creating application workflows to optimize user experience.",
 };
 
 export function LanguageProvider({ children }) {
